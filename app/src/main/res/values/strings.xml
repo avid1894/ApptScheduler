@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleUI</string>
+    <string name="username">username</string>
+    <string name="appointment_scheduler">Appointment Scheduler</string>
+    <string name="Patient_username">username</string>
+    <string name="Patient_password">password</string>
+    <string name="button_login">Login</string>
+    <string name="login">Login</string>
+    <string name="patient_register">Register</string>
+    <string name="login_with_your_account_details">Login with your account details</string>
+    <string name="welcome_archita">Welcome, Archita!</string>
+    <string name="you_have_one_upcoming_appointment_on_24th_august_2018_at_9_00_am">You have one upcoming appointment on 24th August 2018 at 9:00 AM</string>
+    <string name="schedule_an_appointment">Schedule an Appointment</string>
+    <string name="reschedule_cancel_an_existing_appointment">Reschedule/Cancel an existing appointment?</string>
+    <string name="password">password</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
